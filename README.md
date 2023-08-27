@@ -13,8 +13,8 @@ Follow these steps to set up and run the MathApp on your local machine:
 3. Install the required Python packages: pip install -r requirements.txt
 
 4. Run the Django development server:  python manage.py runserver
-5. 
-6. Open your web browser and go to http://localhost:8000/ to access the Math Server.
+  
+5. Open your web browser and go to http://localhost:8000/ to access the Math Server.
 
 ## Features
 
