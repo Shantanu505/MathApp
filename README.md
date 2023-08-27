@@ -6,7 +6,7 @@ Welcome to the MathApp project! This is a simple Django-based web application th
 
 Follow these steps to set up and run the MathApp on your local machine:
 
-1. Clone the repository to your local machine: git clone [https://github.com/your-username/math-server.git](https://github.com/Shantanu505/MathApp.git)https://github.com/Shantanu505/MathApp.git
+1. Clone the repository to your local machine: git clone https://github.com/Shantanu505/MathApp.git
 
 2. Navigate to the project directory: cd math-server
 
