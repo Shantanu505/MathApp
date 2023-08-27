@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Math Server</title>
+</head>
+
+<body>
+    <h1>Welcome to Math Server</h1>
+    <p>Use the provided endpoints to perform mathematical operations and view history.</p>
+    <h2>Available Endpoint Samples:</h2>
+    <ul>
+        {% for endpoint in endpoints %}
+        <li>
+            <strong>URL:</strong> {{ endpoint.url }}<br>
+            <strong>Description:</strong> {{ endpoint.description }}
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+
+</html>
